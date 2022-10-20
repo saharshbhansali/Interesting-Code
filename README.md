@@ -9,13 +9,13 @@
 
 ## Introduction:
 
-  This project was made for college students to showcase interesting scripts and code that they hae written.
+  This project was made for college students to showcase interesting scripts and code that they have created.
   
-  There is no restriction on the topic or domain of the contribution, just that the contributers should be collegiate students or college aspirants.
+  There is no restriction on the topic or domain of the contribution, just that the contributers should be currently studying college students or college aspirants.
   
 ## Contributing:
 
-[Fork](https://github.com/saharshbhansali/Interesting-Code/fork) the repo on GitHub 
+[Fork](https://github.com/saharshbhansali/Interesting-Code/fork) the repo on GitHub.
 
 Clone the repo:
 
