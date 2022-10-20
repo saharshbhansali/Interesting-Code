@@ -1,2 +1,2 @@
-# Repo to Host DSA Codes for Practice and Implementation
+# Repo to Host Interesting Codes from the people in College
 ## HacktoberFest 2022
