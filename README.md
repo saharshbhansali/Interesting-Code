@@ -1,17 +1,17 @@
 # Interesting Code
 
-## Table of Contetnts
-* DSA
-* WiFi Scripts
-* AI
-* Ciphers
-* Games
-
 ## Introduction:
 
   This project was made for college students to showcase interesting scripts and code that they have created.
   
   There is no restriction on the topic or domain of the contribution, just that the contributers should be currently studying college students or college aspirants.
+
+## Table of Contents
+* DSA
+* WiFi Scripts
+* AI
+* Ciphers
+* Games
   
 ## Contributing:
 
@@ -36,4 +36,6 @@ Push the changes:
 Open a PR from GitHub
 
 
-License: None (Subject to change)
+## License:
+
+None (Subject to change)
